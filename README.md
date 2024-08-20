@@ -1,1 +1,2 @@
 # CheatSheets
+This repository contains a collection of cheat sheets tailored for developers working with various technologies. Whether you're looking for quick syntax reminders, code snippets, or best practices, these cheat sheets are designed to be your go-to resource. Organized by language and framework, you'll find concise and easy-to-navigate guides for everything from JavaScript and CSS to .NET and Angular. Perfect for fast reference during coding sessions or as a handy study aid.
